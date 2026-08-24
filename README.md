@@ -20,11 +20,11 @@
 
 In the AI era, everyone deserves their own **digital business card** — a complete, beautiful, maintenance-free personal website, auto-built by AI.
 
-## Template Gallery (Milestone 1)
+## Template Gallery
 
 A collection of personal homepages / digital business card templates. Each template includes a **homepage screenshot, live URL, GitHub (if any), and a reference document**.
 
-New templates will be appended in the same format.
+The gallery is a **customer-acquisition / SEO asset**, not the product: it's the "menu" in M1, the delivery raw material in M2, and the traffic content in M5. New templates will be appended in the same format.
 
 ---
 
@@ -85,8 +85,12 @@ New templates will be appended in the same format.
 
 ## Milestone Roadmap
 
-1. **Template Collection (current)** — Collect beautiful personal-site templates and build a gallery.
-2. **Pipeline SOP** — SOP-ify site building, domain purchase, and deployment into a semi-automated pipeline.
-3. **Customer Acquisition & Revenue** — Start selling and discuss profit-sharing.
-4. **SaaS-ify** — Fully automated delivery, operation, and payment.
-5. **Scale & Iterate** — Accelerate promotion and iterate on personalized needs.
+Milestones are **validation gates**, not a to-do list. Each has a gate you must pass before moving on — we validate "will anyone pay?" first, and only touch "how to scale?" last.
+
+1. **M1 · First Paid Customer** — Hand-deliver (no AI, no pipeline) and land the first 3–5 paying customers. *Gate: ≥3 people paid real money, and you can name who, how much, and what they bought.*
+2. **M2 · Repeatable Delivery** — Freeze the hand-built process into a fixed process / price / turnaround. *Gate: someone equally skilled can deliver consistent quality in a fixed time; per-customer gross margin > 0.*
+3. **M3 · Automatable** — Replace the repetitive SOP steps with AI/scripts; the template gallery becomes the product's raw material here. *Gate: delivery time approaches zero, or a non-technical person can deliver using the tool.*
+4. **M4 · Self-serve SaaS** — Self-service ordering, automated delivery, subscription/one-time billing. *Gate: a stranger gets a satisfying site without ever contacting you.*
+5. **M5 · Scale & Profit-share** — Scaled acquisition, profit-sharing, iterate on personalization. *Gate: CAC < LTV, and at least one acquisition channel is repeatable.*
+
+→ Detailed, checkable task breakdown: [ROADMAP.md](ROADMAP.md)
