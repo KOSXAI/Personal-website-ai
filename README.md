@@ -21,8 +21,16 @@ AI 时代，让每个人都能拥有一张属于自己的数字名片 —— 一
 ### 里程碑 1：模板收集（当前阶段）
 收集好个人博客模板，把审美好、设计好的模板收集起来，做成一个**模板展示页面**，方便给用户浏览挑选。
 
-进度：
-- [x] 参考样板 #001：`chendahuang.com`（用户本人的站，详见 `templates/chendahuang.com.md`）
+**模板库索引**（截图 + 主页 + GitHub + 分析文档，新增模板持续补充）：
+
+| # | 模板 | 截图 | 主页 | GitHub | 分析文档 |
+|---|------|------|------|--------|----------|
+| 001 | 陈大黄 · 作品与内容陈列站 | [截图](templates/chendahuang.com-home.jpg) | [chendahuang.com](https://chendahuang.com) | [realchendahuang/chendahuang.com](https://github.com/realchendahuang/chendahuang.com) | [chendahuang.com.md](templates/chendahuang.com.md) |
+| 002 | CouCouYa 可可鸭 · 社区成长/公开学习 | [截图](templates/coucouya.com-home.jpg) | [coucouya.com](https://coucouya.com) | — | [coucouya.com.md](templates/coucouya.com.md) |
+| 003 | Mike Lam · 创业者个人主页 | [截图](templates/mc9world.com-home.jpg) | [mc9world.com](https://mc9world.com) | — | [mc9world.com.md](templates/mc9world.com.md) |
+| 004 | Edison AI Workshop · AI 产品开发者作品集 | [截图](templates/edison-zwteam.pages.dev-home.jpg) | [edison-zwteam.pages.dev](https://edison-zwteam.pages.dev) | — | [edison-zwteam.pages.dev.md](templates/edison-zwteam.pages.dev.md) |
+
+> 注：002-004 的 GitHub 仓库地址页面未直接暴露，待补齐。
 
 ### 里程碑 2：流水线 SOP 化
 把搭建网站、购买域名、部署这些事情 SOP 化，组成一个**半自动的流水线流程**。
