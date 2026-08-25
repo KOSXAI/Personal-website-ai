@@ -3,28 +3,51 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Personal Website AI · 数字名片模板库</title>
-  <meta name="description" content="AI 时代的个人官网模板库。挑一个喜欢的风格，把你的信息交给 AI，自动生成一个完整、美观、免维护的个人官网。">
+  <title>Personal Website AI · 属于你自己的个人网站</title>
+  <meta name="description" content="AI 时代，每个人都该有一个自己的网站。选一个模板，交给 AI，几分钟上线，绑定你自己的域名。">
+  <script>
+    (function () {
+      var saved = localStorage.getItem('theme');
+      var dark = saved ? saved === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+      document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    })();
+  </script>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <button class="theme-toggle" id="themeToggle" aria-label="切换深色与浅色模式">🌙</button>
+
   <header class="hero">
     <div class="wrap">
-      <p class="kicker">Personal Website AI</p>
-      <h1>挑一个喜欢的风格，剩下的交给 AI</h1>
-      <p class="sub">一套精心挑选的个人官网 / 数字名片模板，选中即可定制。作品、内容、人设，一次讲清。</p>
+      <h1>AI 时代，每个人都该有一个自己的网站</h1>
+      <p>选一个喜欢的模板，把你的资料交出来，剩下的交给 AI。网站自动生成、免费托管、绑定你自己的域名，之后你只需要偶尔更新一下内容，别的什么都不用管。</p>
       <div class="cta">
-        <a class="btn btn-primary" href="#templates">浏览模板</a>
-        <a class="btn btn-ghost" href="https://github.com/KOSXAI/Personal-website-ai">查看源码</a>
+        <a class="btn btn-primary" href="#templates">看模板</a>
+        <a class="btn btn-ghost" href="#why">为什么值得有一个</a>
       </div>
     </div>
   </header>
 
   <main class="wrap">
-    <section id="templates" class="section">
-      <h2>模板库</h2>
-      <p class="section-note">每个模板都配有首页预览、线上地址与风格说明。</p>
+    <section id="why" class="prose">
+      <h2>你的社交账号，是租来的</h2>
+      <p>你在微博、知乎、X、小红书上的内容、粉丝和人设，全都存在别人的服务器上。算法改一次，你的内容可能就没人看了；平台出一个政策，你的账号可能就没了。这些是你「借」来的身份，随时可能被收走。</p>
+      <p>而一个挂着你自己的域名的网站不一样——它是你在互联网上唯一真正拥有的东西。只要域名还在续费，它就一直在，谁也删不掉，谁也限不了流。它不靠任何平台施舍流量，7×24 小时替你说话。</p>
 
+      <h2>AI 让内容越来越便宜，可信度越来越贵</h2>
+      <p>AI 几秒钟就能写一篇文章、画一张图、搭一个网站。当所有人都能廉价地产出内容，「内容」本身就不再是竞争力。真正稀缺的是「一个真实、可信、长期在做这件事的人」。</p>
+      <p>一个稳定存在的个人网站，恰恰是证明这一点的最好方式。它是你的数字身份证：别人搜你的名字，看到的不是某个平台的碎片，而是一个完整、能查证、能追溯的你。别人可以说「我有十万粉丝」，但你说的是「这是我自己的一亩三分地」——这两句话的分量不一样。</p>
+
+      <h2>它是不是最好的个人简历？</h2>
+      <p>诚实地说：它不替代求职时那张 PDF，但它比一张简历大得多。简历是「你过去做过什么」的静态清单，一页纸讲不完一个人；个人网站是「你是谁、你在做什么、你值不值得信任」的完整表达，能被人随时搜到、随时更新。</p>
+      <p>如果你想要的不是被某一家公司看到，而是被世界找到、被记住、被信任，那它就是目前最好的形式。它可以是一份简历的母版——所有平台、所有场合，最终都指向这一个属于你的地址。</p>
+
+      <h2>部署到底有多简单？</h2>
+      <p>不需要买服务器，不需要懂运维。把网站文件上传，它就上线了——免费托管、全球加速、自动 HTTPS、绑定你自己的域名。这个项目把剩下的事也做了：内容由 AI 生成，你不用写一行代码。从「我想有个网站」到「网站已经能打开」，可能只要几分钟。</p>
+    </section>
+
+    <section id="templates" class="section">
+      <h2>挑一个模板</h2>
       <div class="grid">
         <article class="card">
           <img src="assets/mc9world.com-home.jpg" alt="极简名片风格预览" loading="lazy">
@@ -88,14 +111,10 @@
       </div>
     </section>
 
-    <section class="section">
-      <h2>怎么用</h2>
-      <p class="section-note">先挑风格，再把你的资料交给我们，自动生成一个完整、美观、免维护的个人官网。</p>
-      <ol class="steps">
-        <li>选一个最像你的模板</li>
-        <li>提供一句话人设 + 项目/作品 + 联系方式</li>
-        <li>拿到一个属于你自己的官网</li>
-      </ol>
+    <section class="closing">
+      <h2>想搭一个？</h2>
+      <p>挑一个喜欢的风格，告诉我你是谁、做过什么、怎么联系你，剩下的交给我。</p>
+      <a class="btn btn-primary" href="#templates">回到模板</a>
     </section>
   </main>
 
@@ -104,5 +123,21 @@
       <p>Personal Website AI · 源码托管于 <a href="https://github.com/KOSXAI/Personal-website-ai" target="_blank" rel="noopener">GitHub</a></p>
     </div>
   </footer>
+
+  <script>
+    var toggle = document.getElementById('themeToggle');
+    function syncIcon() {
+      var dark = document.documentElement.getAttribute('data-theme') === 'dark';
+      toggle.textContent = dark ? '☀️' : '🌙';
+    }
+    toggle.addEventListener('click', function () {
+      var dark = document.documentElement.getAttribute('data-theme') === 'dark';
+      var next = dark ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+      syncIcon();
+    });
+    syncIcon();
+  </script>
 </body>
 </html>
