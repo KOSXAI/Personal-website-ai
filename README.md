@@ -83,6 +83,18 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 ---
 
+### 006 · Kim · Kim AI Workshop · Immersive Interactive AI Studio
+
+<img src="templates/kim-ai-workshop.com-home.jpg" alt="kim-ai-workshop.com preview" width="100%">
+
+- **Homepage**：[kim-ai-workshop.com](https://kim-ai-workshop.com)
+- **GitHub**：—
+- **X**：[@king1818888](https://x.com/king1818888)
+- **Reference**：[templates/kim-ai-workshop.com.md](templates/kim-ai-workshop.com.md)
+- **Highlights**：Pixel-art "KIM OS" boot animation + clickable interactive scene; projects / capabilities / case files / X relationship graph / chat terminal. For AI builders and geek-style personal brands.
+
+---
+
 ## Milestone Roadmap
 
 Milestones are **validation gates**, not a to-do list. Each has a gate you must pass before moving on — we validate "will anyone pay?" first, and only touch "how to scale?" last.

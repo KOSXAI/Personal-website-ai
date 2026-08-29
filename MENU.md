@@ -60,6 +60,17 @@
 
 ---
 
+## 风格 F · 互动像素工作室（¥399 起）
+
+![kim-ai-workshop.com 预览](templates/kim-ai-workshop.com-home.jpg)
+
+**一句话**：开机动画 + 点得动的像素世界，项目/能力/案例/人脉图谱全藏在场景里，访客玩着玩着就把你记住了。
+
+- **适合谁**：AI Builder、自动化工具作者、想让人眼前一亮的极客——要的是记忆点，不是一页简历。
+- **参考**：[kim-ai-workshop.com](https://kim-ai-workshop.com) · 作者 X：[@king1818888](https://x.com/king1818888)
+
+---
+
 ## 交付包含
 
 - 选中风格后，按你的资料改内容：人设一句话、项目/作品、社交链接、邮箱

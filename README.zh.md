@@ -83,6 +83,18 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 ---
 
+### 006 · Kim · Kim AI Workshop · 沉浸式互动 AI 工作室
+
+<img src="templates/kim-ai-workshop.com-home.jpg" alt="kim-ai-workshop.com 预览" width="100%">
+
+- **主页**：[kim-ai-workshop.com](https://kim-ai-workshop.com)
+- **GitHub**：—
+- **X**：[@king1818888](https://x.com/king1818888)
+- **分析文档**：[templates/kim-ai-workshop.com.md](templates/kim-ai-workshop.com.md)
+- **特点**：像素风「KIM OS」开机动画 + 可点选互动场景；项目 / 能力 / 案例 / X 关系图谱 / 对话终端；自带 162 人已验证关系链的可交互人脉图谱。适合 AI Builder / 极客型个人品牌。
+
+---
+
 ## 里程碑路线图
 
 里程碑是**验证关卡，不是任务清单**——每一关都有一道门，过了才能进下一关；先验证"有没有人付钱"，最后才碰"怎么规模化"。
