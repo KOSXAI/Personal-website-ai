@@ -95,6 +95,18 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 ---
 
+### 007 · Jack · Jack Flux · Building in Public 成长记录站
+
+<img src="templates/jack0813y.github.io-home.jpg" alt="jack0813y.github.io 预览" width="100%">
+
+- **主页**：[jack0813y.github.io](https://jack0813y.github.io)
+- **GitHub**：[Jack0813y](https://github.com/Jack0813y)
+- **X**：[@Jack_FluxAI](https://x.com/Jack_FluxAI)
+- **分析文档**：[templates/jack0813y.github.io.md](templates/jack0813y.github.io.md)
+- **特点**：数字雨背景 + 点阵大字宣言；编号式分区（About / Projects / Writing / Workstation / Contact）；项目挂「构建中 / 运行中 / 迭代中」状态标签，首页常驻「当前项目」滚动条。适合公开记录 ALL IN AI 转型过程的工程师 / 开发者。
+
+---
+
 ## 里程碑路线图
 
 里程碑是**验证关卡，不是任务清单**——每一关都有一道门，过了才能进下一关；先验证"有没有人付钱"，最后才碰"怎么规模化"。

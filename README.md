@@ -95,6 +95,18 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 ---
 
+### 007 · Jack · Jack Flux · Building-in-Public Growth Log
+
+<img src="templates/jack0813y.github.io-home.jpg" alt="jack0813y.github.io preview" width="100%">
+
+- **Homepage**：[jack0813y.github.io](https://jack0813y.github.io)
+- **GitHub**：[Jack0813y](https://github.com/Jack0813y)
+- **X**：[@Jack_FluxAI](https://x.com/Jack_FluxAI)
+- **Reference**：[templates/jack0813y.github.io.md](templates/jack0813y.github.io.md)
+- **Highlights**：Digital-rain background + dot-matrix hero statement; numbered sections (About / Projects / Writing / Workstation / Contact); projects carry status tags (building / running / iterating) and a "current project" ticker on the home page. For engineers and developers documenting their ALL-IN-AI transition in public.
+
+---
+
 ## Milestone Roadmap
 
 Milestones are **validation gates**, not a to-do list. Each has a gate you must pass before moving on — we validate "will anyone pay?" first, and only touch "how to scale?" last.
