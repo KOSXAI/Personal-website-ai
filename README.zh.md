@@ -107,6 +107,18 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 ---
 
+### 008 · Linc · LINC.WANG · 设计实践与 AI 产品作品集
+
+<img src="templates/linc.wang-home.jpg" alt="linc.wang 预览" width="100%">
+
+- **主页**：[linc.wang](https://linc.wang)
+- **GitHub**：—
+- **X**：[@superwang](https://x.com/superwang)
+- **分析文档**：[templates/linc.wang.md](templates/linc.wang.md)
+- **特点**：建筑摄影与编辑杂志式留白；先交代室内设计主业，再陈列可体验的 AI 产品；真实产品卡附事实与 Demo 入口；中英双语、支持减少动效。适合同时拥有专业实践与数字产品的独立设计师 / 工作室负责人。
+
+---
+
 ## 里程碑路线图
 
 里程碑是**验证关卡，不是任务清单**——每一关都有一道门，过了才能进下一关；先验证"有没有人付钱"，最后才碰"怎么规模化"。

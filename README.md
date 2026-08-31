@@ -107,6 +107,18 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 ---
 
+### 008 · Linc · LINC.WANG · Design Practice & AI Product Portfolio
+
+<img src="templates/linc.wang-home.jpg" alt="linc.wang preview" width="100%">
+
+- **Homepage**：[linc.wang](https://linc.wang)
+- **GitHub**：—
+- **X**：[@superwang](https://x.com/superwang)
+- **Reference**：[templates/linc.wang.md](templates/linc.wang.md)
+- **Highlights**：Architecture photography and editorial whitespace; establishes interior-design practice before showing usable AI products; product cards carry facts and demo links; bilingual with reduced-motion support. For independent designers and studio leads with both a professional practice and digital products.
+
+---
+
 ## Milestone Roadmap
 
 Milestones are **validation gates**, not a to-do list. Each has a gate you must pass before moving on — we validate "will anyone pay?" first, and only touch "how to scale?" last.
