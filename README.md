@@ -119,6 +119,18 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 ---
 
+### 009 · MoonInAI · AI Systems Consulting & Build-in-Public Hub
+
+<img src="templates/mooninai.top-home.jpg" alt="mooninai.top preview" width="100%">
+
+- **Homepage**: [mooninai.top](https://mooninai.top/)
+- **GitHub**: [chenjin-cmd](https://github.com/chenjin-cmd)
+- **X**: [@MoonInAI](https://x.com/MoonInAI)
+- **Reference**: [templates/mooninai.top.md](templates/mooninai.top.md)
+- **Highlights**: A lunar-exploration visual system with lime accents creates a memorable identity; work, services, and a collaboration process build trust in sequence. Fits AI consultants, automation service providers, and builders working in public.
+
+---
+
 ## Milestone Roadmap
 
 Milestones are **validation gates**, not a to-do list. Each has a gate you must pass before moving on — we validate "will anyone pay?" first, and only touch "how to scale?" last.

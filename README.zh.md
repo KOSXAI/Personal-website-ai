@@ -119,6 +119,18 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 ---
 
+### 009 · MoonInAI · AI 系统顾问与公开构建站
+
+<img src="templates/mooninai.top-home.jpg" alt="mooninai.top 预览" width="100%">
+
+- **主页**：[mooninai.top](https://mooninai.top/)
+- **GitHub**：[chenjin-cmd](https://github.com/chenjin-cmd)
+- **X**：[@MoonInAI](https://x.com/MoonInAI)
+- **分析文档**：[templates/mooninai.top.md](templates/mooninai.top.md)
+- **特点**：月球探索视觉与荧光绿点缀建立强记忆点；作品、服务、合作流程逐层组织；适合 AI 顾问、自动化服务者与公开构建者。
+
+---
+
 ## 里程碑路线图
 
 里程碑是**验证关卡，不是任务清单**——每一关都有一道门，过了才能进下一关；先验证"有没有人付钱"，最后才碰"怎么规模化"。
