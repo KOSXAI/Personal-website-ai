@@ -119,6 +119,18 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 ---
 
+### 010 · Station Cat · 独立 App 与日常创作小站
+
+<img src="templates/wwwstationcat.org-home.jpg" alt="Station Cat 首页预览" width="100%">
+
+- **主页**：[wwwstationcat.org](https://wwwstationcat.org/)
+- **GitHub**：—
+- **X**：[@statiocat](https://x.com/statiocat)
+- **分析文档**：[templates/wwwstationcat.org.md](templates/wwwstationcat.org.md)
+- **特点**：米色方格底纹、衬线大字与胶带便签式看板；把独立 App、网页游戏、连载小说、信号简报与日常观察放在同一座小站；产品卡附发布或测试状态和体验入口；提供繁中、简中、英文、日文导航选项。适合公开记录学习与构建过程的独立开发者和多领域创作者。
+
+---
+
 ## 里程碑路线图
 
 里程碑是**验证关卡，不是任务清单**——每一关都有一道门，过了才能进下一关；先验证"有没有人付钱"，最后才碰"怎么规模化"。

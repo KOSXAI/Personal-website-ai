@@ -119,6 +119,18 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 ---
 
+### 010 · Station Cat · Indie Apps & Everyday Creativity
+
+<img src="templates/wwwstationcat.org-home.jpg" alt="Station Cat homepage preview" width="100%">
+
+- **Homepage**：[wwwstationcat.org](https://wwwstationcat.org/)
+- **GitHub**：—
+- **X**：[@statiocat](https://x.com/statiocat)
+- **Reference**：[templates/wwwstationcat.org.md](templates/wwwstationcat.org.md)
+- **Highlights**：Warm paper-and-noticeboard aesthetic with a grid background, serif headlines and taped cards; combines indie apps, a browser game, serial fiction and signal briefings with everyday observations; product cards show release or test status and direct links. Offers Traditional Chinese, Simplified Chinese, English and Japanese navigation options. For independent developers and multidisciplinary creators sharing their learning and building process.
+
+---
+
 ## Milestone Roadmap
 
 Milestones are **validation gates**, not a to-do list. Each has a gate you must pass before moving on — we validate "will anyone pay?" first, and only touch "how to scale?" last.
