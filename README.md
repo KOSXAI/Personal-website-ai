@@ -119,6 +119,18 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 ---
 
+### 011 · Jasper Wei · AI Workflow & Project Portfolio
+
+<img src="templates/jasper-wei-home.jpg" alt="Jasper Wei homepage preview" width="100%">
+
+- **Homepage**：[Jasper Wei](https://jasper-wei.vast-beech-4429.chatgpt.site/)
+- **GitHub**：[Jasper-Wei1/websites](https://github.com/Jasper-Wei1/websites)
+- **X**：[@Jasper_Wei1](https://x.com/Jasper_Wei1)
+- **Reference**：[templates/jasper-wei.md](templates/jasper-wei.md)
+- **Highlights**：React + Vite with a WebGL wave-light hero; personal introduction, project index, and case studies explaining workflows and design decisions; pause controls and reduced-motion support. For AI builders and independent creators who want to show both their work and their reasoning.
+
+---
+
 ## Milestone Roadmap
 
 Milestones are **validation gates**, not a to-do list. Each has a gate you must pass before moving on — we validate "will anyone pay?" first, and only touch "how to scale?" last.
