@@ -119,6 +119,18 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 ---
 
+### 012 · Gdemoni · Personal World · 互动数字花园
+
+<img src="templates/zshgdemoni.me-home.jpg" alt="zshgdemoni.me 预览" width="100%">
+
+- **主页**：[zshgdemoni.me](https://zshgdemoni.me)
+- **GitHub**：[gdemoni/Gdemoni-personal](https://github.com/gdemoni/Gdemoni-personal)
+- **X**：[@Gdemonizsh](https://x.com/Gdemonizsh)
+- **分析文档**：[templates/zshgdemoni.me.md](templates/zshgdemoni.me.md)
+- **特点**：可撕门票式入口 + 手绘数字花园；园丁档案、项目温室、工具棚、成长小径与花园信箱组成统一叙事；真实项目详情、浏览集章和中英文切换增强探索感。适合正在积累作品与经历的学生开发者、AI Builder 和独立开发者。
+
+---
+
 ## 里程碑路线图
 
 里程碑是**验证关卡，不是任务清单**——每一关都有一道门，过了才能进下一关；先验证"有没有人付钱"，最后才碰"怎么规模化"。
