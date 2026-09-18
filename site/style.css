@@ -221,6 +221,33 @@ details p { margin: 10px 0 0; color: var(--text-dim); font-size: 15px; }
 .closing h2 { margin: 0 0 12px; font-size: 26px; }
 .closing p { margin: 0 auto 28px; max-width: 480px; color: var(--text-dim); font-size: 17px; }
 
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+  max-width: 640px;
+  margin: 0 auto 32px;
+  text-align: left;
+}
+.contact-item {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 14px 16px;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-size: 15px;
+}
+.contact-label {
+  flex-shrink: 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: 0.06em;
+}
+.contact-item a, .contact-plain { word-break: break-all; }
+
 /* Footer */
 footer {
   border-top: 1px solid var(--border);
@@ -230,6 +257,12 @@ footer {
   font-size: 14px;
 }
 footer p { margin: 0; }
+
+/* 404 */
+.notfound { padding: 120px 0 96px; text-align: center; }
+.notfound h1 { margin: 0 0 12px; font-size: 64px; letter-spacing: -0.03em; color: var(--accent); }
+.notfound p { margin: 0 0 12px; color: var(--text-dim); font-size: 17px; }
+.notfound-actions { margin-top: 28px; }
 
 @media (max-width: 640px) {
   .hero { padding: 88px 0 56px; }
