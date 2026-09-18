@@ -126,11 +126,23 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 <img src="templates/mooninai.top-home.jpg" alt="mooninai.top preview" width="100%">
 
-- **Homepage**: [mooninai.top](https://mooninai.top/)
-- **GitHub**: [chenjin-cmd](https://github.com/chenjin-cmd)
-- **X**: [@MoonInAI](https://x.com/MoonInAI)
-- **Reference**: [templates/mooninai.top.md](templates/mooninai.top.md)
-- **Highlights**: A lunar-exploration visual system with lime accents creates a memorable identity; work, services, and a collaboration process build trust in sequence. Fits AI consultants, automation service providers, and builders working in public.
+- **Homepage**：[mooninai.top](https://mooninai.top/)
+- **GitHub**：[chenjin-cmd](https://github.com/chenjin-cmd)
+- **X**：[@MoonInAI](https://x.com/MoonInAI)
+- **Reference**：[templates/mooninai.top.md](templates/mooninai.top.md)
+- **Highlights**：A lunar-exploration visual system with lime accents creates a memorable identity; work, services, and a collaboration process build trust in sequence. Fits AI consultants, automation service providers, and builders working in public.
+
+---
+
+### 010 · Station Cat · Indie Apps & Everyday Creativity
+
+<img src="templates/wwwstationcat.org-home.jpg" alt="Station Cat homepage preview" width="100%">
+
+- **Homepage**：[wwwstationcat.org](https://wwwstationcat.org/)
+- **GitHub**：—
+- **X**：[@statiocat](https://x.com/statiocat)
+- **Reference**：[templates/wwwstationcat.org.md](templates/wwwstationcat.org.md)
+- **Highlights**：Warm paper-and-noticeboard aesthetic with a grid background, serif headlines and taped cards; combines indie apps, a browser game, serial fiction and signal briefings with everyday observations; product cards show release or test status and direct links. Offers Traditional Chinese, Simplified Chinese, English and Japanese navigation options. For independent developers and multidisciplinary creators sharing their learning and building process.
 
 ---
 
