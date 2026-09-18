@@ -2,7 +2,7 @@
 
 > AI 时代，属于你的数字名片站。
 
-[→ English](README.md)
+[→ English](README.md) · **线上展示页**：[personal-website-ai.chendahuang.com](https://personal-website-ai.chendahuang.com/)
 
 ---
 
@@ -45,6 +45,7 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 - **主页**：[coucouya.com](https://coucouya.com)
 - **GitHub**：—
+- **X**：[@KeKeYa88](https://x.com/KeKeYa88)
 - **分析文档**：[templates/coucouya.com.md](templates/coucouya.com.md)
 - **特点**：暗色内容站，AI 时代社区增长操盘手；教程、Web3 探索、社群导流。适合个人 IP / 内容创作者。
 
@@ -56,6 +57,7 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 - **主页**：[mc9world.com](https://mc9world.com)
 - **GitHub**：—
+- **X**：[@MikeLammm](https://x.com/MikeLammm)
 - **分析文档**：[templates/mc9world.com.md](templates/mc9world.com.md)
 - **特点**：WordPress，极简大字 Hero，"先聊聊"式 CTA；适合创业者 / 服务型个人品牌。
 
@@ -67,6 +69,7 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 - **主页**：[edison-zwteam.pages.dev](https://edison-zwteam.pages.dev)
 - **GitHub**：—
+- **X**：[@Edison_aware](https://x.com/Edison_aware)
 - **分析文档**：[templates/edison-zwteam.pages.dev.md](templates/edison-zwteam.pages.dev.md)
 - **特点**：Cloudflare Pages，像素风工作室场景；产品案例 + 工作流能力；适合 AI 产品开发者 / 自动化工具开发者。
 
@@ -119,6 +122,42 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 ---
 
+### 009 · MoonInAI · AI 系统顾问与公开构建站
+
+<img src="templates/mooninai.top-home.jpg" alt="mooninai.top 预览" width="100%">
+
+- **主页**：[mooninai.top](https://mooninai.top/)
+- **GitHub**：[chenjin-cmd](https://github.com/chenjin-cmd)
+- **X**：[@MoonInAI](https://x.com/MoonInAI)
+- **分析文档**：[templates/mooninai.top.md](templates/mooninai.top.md)
+- **特点**：月球探索视觉与荧光绿点缀建立强记忆点；作品、服务、合作流程逐层组织；适合 AI 顾问、自动化服务者与公开构建者。
+
+---
+
+### 010 · Station Cat · 独立 App 与日常创作小站
+
+<img src="templates/wwwstationcat.org-home.jpg" alt="Station Cat 首页预览" width="100%">
+
+- **主页**：[wwwstationcat.org](https://wwwstationcat.org/)
+- **GitHub**：—
+- **X**：[@statiocat](https://x.com/statiocat)
+- **分析文档**：[templates/wwwstationcat.org.md](templates/wwwstationcat.org.md)
+- **特点**：米色方格底纹、衬线大字与胶带便签式看板；把独立 App、网页游戏、连载小说、信号简报与日常观察放在同一座小站；产品卡附发布或测试状态和体验入口；提供繁中、简中、英文、日文导航选项。适合公开记录学习与构建过程的独立开发者和多领域创作者。
+
+---
+
+### 011 · Jasper Wei · AI 工作流与项目作品集
+
+<img src="templates/jasper-wei-home.jpg" alt="Jasper Wei homepage preview" width="100%">
+
+- **主页**：[Jasper Wei](https://jasper-wei.vast-beech-4429.chatgpt.site/)
+- **GitHub**：[Jasper-Wei1/websites](https://github.com/Jasper-Wei1/websites)
+- **X**：[@Jasper_Wei1](https://x.com/Jasper_Wei1)
+- **分析文档**：[templates/jasper-wei.md](templates/jasper-wei.md)
+- **特点**：React + Vite，WebGL 波动光场首屏；个人介绍、独立项目列表与案例详情，通过交互式流程和设计取舍讲清实践过程；支持暂停动效与减少动态效果。适合希望同时展示作品和思考过程的 AI Builder 与独立创作者。
+
+---
+
 ### 012 · Gdemoni · Personal World · 互动数字花园
 
 <img src="templates/zshgdemoni.me-home.jpg" alt="zshgdemoni.me 预览" width="100%">
@@ -142,3 +181,24 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 5. **M5 能放大（增长 + 分润）** — 规模化获客、合作分润、按需迭代。*门：获客成本 < 客户终身价值，且至少一条获客渠道可复制。*
 
 → 细化为可勾选的任务清单：[ROADMAP.md](ROADMAP.md)
+
+## 仓库结构
+
+| 路径 | 说明 |
+|------|------|
+| `templates/` | 参考模板分析文档 + 首页截图（模板库原料） |
+| `site/` | 线上展示页——纯 HTML/CSS，部署在 Cloudflare Pages |
+| `MENU.md` | M1 获客菜单：8 个风格定位、亮点与起步价 |
+| `ROADMAP.md` | 里程碑门禁 + M1 销售物料（上架文案、话术） |
+| `M1-DEALS.md` | 成交台账——谁付的、付了多少、买的是什么（M1 门禁证据） |
+
+## 部署展示页
+
+展示页是纯静态站，没有构建步骤。发布改动只需：
+
+```bash
+wrangler pages deploy site --project-name personal-website-ai
+```
+
+线上地址：[personal-website-ai.chendahuang.com](https://personal-website-ai.chendahuang.com/)
+（`*.pages.dev` 预览域名是 `personal-website-ai-d9f.pages.dev`）
