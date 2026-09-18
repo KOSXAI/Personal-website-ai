@@ -158,6 +158,18 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 ---
 
+### 012 · Gdemoni · Personal World · Interactive Digital Garden
+
+<img src="templates/zshgdemoni.me-home.jpg" alt="zshgdemoni.me preview" width="100%">
+
+- **Homepage**：[zshgdemoni.me](https://zshgdemoni.me)
+- **GitHub**：[gdemoni/Gdemoni-personal](https://github.com/gdemoni/Gdemoni-personal)
+- **X**：[@Gdemonizsh](https://x.com/Gdemonizsh)
+- **Reference**：[templates/zshgdemoni.me.md](templates/zshgdemoni.me.md)
+- **Highlights**：A tear-off ticket entrance and hand-drawn digital garden connect the profile, project greenhouse, tool shed, growth path, and mailbox into one coherent world. Real project details, exploration stamps, and bilingual content make it a strong fit for student developers, AI builders, and independent developers growing their work in public.
+
+---
+
 ## Milestone Roadmap
 
 Milestones are **validation gates**, not a to-do list. Each has a gate you must pass before moving on — we validate "will anyone pay?" first, and only touch "how to scale?" last.
