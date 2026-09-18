@@ -146,6 +146,18 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 ---
 
+### 011 · Jasper Wei · AI 工作流与项目作品集
+
+<img src="templates/jasper-wei-home.jpg" alt="Jasper Wei homepage preview" width="100%">
+
+- **主页**：[Jasper Wei](https://jasper-wei.vast-beech-4429.chatgpt.site/)
+- **GitHub**：[Jasper-Wei1/websites](https://github.com/Jasper-Wei1/websites)
+- **X**：[@Jasper_Wei1](https://x.com/Jasper_Wei1)
+- **分析文档**：[templates/jasper-wei.md](templates/jasper-wei.md)
+- **特点**：React + Vite，WebGL 波动光场首屏；个人介绍、独立项目列表与案例详情，通过交互式流程和设计取舍讲清实践过程；支持暂停动效与减少动态效果。适合希望同时展示作品和思考过程的 AI Builder 与独立创作者。
+
+---
+
 ## 里程碑路线图
 
 里程碑是**验证关卡，不是任务清单**——每一关都有一道门，过了才能进下一关；先验证"有没有人付钱"，最后才碰"怎么规模化"。
