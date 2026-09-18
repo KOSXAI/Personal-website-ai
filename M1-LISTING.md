@@ -18,21 +18,22 @@
 
 ## 二、主图与九图
 
-闲鱼商品图按这个顺序放（直接从仓库取图，都是现成的）：
+闲鱼商品图最多 9 张，所以从 12 个风格里挑覆盖面最广、视觉差异最大的 8 张，其余 4 个风格在详情文案里都有列（买家问哪张就单独发）。直接从仓库取图，都是现成的：
 
 | 位置 | 内容 | 素材 |
 |------|------|------|
 | 图 1（主图） | 展示页分享卡（大字标题，一眼看懂卖什么） | `site/og.png` |
 | 图 2 | 极简名片风格 | `templates/mc9world.com-home.jpg` |
 | 图 3 | 作品与内容陈列站 | `templates/chendahuang.com-home.jpg` |
-| 图 4 | 内容与社区站 | `templates/coucouya.com-home.jpg` |
-| 图 5 | AI 产品作品集 | `templates/edison-zwteam.pages.dev-home.jpg` |
-| 图 6 | 视觉工作室 | `templates/su-uni.cc-home.jpg` |
-| 图 7 | 互动像素工作室 | `templates/kim-ai-workshop.com-home.jpg` |
-| 图 8 | 极客成长记录站 | `templates/jack0813y.github.io-home.jpg` |
-| 图 9 | 设计实践 × AI 产品 | `templates/linc.wang-home.jpg` |
+| 图 4 | AI 产品作品集 | `templates/edison-zwteam.pages.dev-home.jpg` |
+| 图 5 | 视觉工作室 | `templates/su-uni.cc-home.jpg` |
+| 图 6 | 互动像素工作室 | `templates/kim-ai-workshop.com-home.jpg` |
+| 图 7 | 极客成长记录站 | `templates/jack0813y.github.io-home.jpg` |
+| 图 8 | 设计实践 × AI 产品 | `templates/linc.wang-home.jpg` |
+| 图 9 | 互动数字花园 | `templates/zshgdemoni.me-home.jpg` |
 
 > 每张图建议加一行白底文字标注风格名（如「极简名片」），买家不用点开就能比。
+> 没上榜的 4 个风格：内容与社区站、AI 系统顾问与公开构建站、独立 App 与日常创作小站、AI 工作流与项目作品集——有人问起或想定向吸引某类客户时替换进来即可。
 
 ## 三、商品详情文案（直接复制）
 
@@ -47,7 +48,7 @@
 · 不用懂技术，你只管给资料，建站、部署、域名配置我来做
 · 三天交付，改到满意为止
 
-【8 种风格可选】
+【12 种风格可选】
 1. 极简名片 —— 名字 + 一句人设 + 「先聊聊」按钮，适合创业者/自由职业者
 2. 作品与内容陈列站 —— 项目/博客/技能分层，适合独立开发者、创作者
 3. 内容与社区站 —— 干货沉淀成手册，导流私域，适合科普作者、社群主理人
@@ -56,6 +57,10 @@
 6. 互动像素工作室 —— 开机动画 + 可点场景，适合极客、AI Builder
 7. 极客成长记录站 —— 公开记录成长过程，适合转型中的工程师
 8. 设计实践 × AI 产品 —— 主业与产品并置，适合有专业主业的跨界者
+9. AI 系统顾问与公开构建站 —— 服务 + 作品 + 合作流程，适合 AI 顾问、自动化服务者
+10. 独立 App 与日常创作小站 —— 多种作品集中展示，适合独立开发者、多领域创作者
+11. AI 工作流与项目作品集 —— 项目结果 + 思考过程，适合 AI Builder、独立创作者
+12. 互动数字花园 —— 门票式互动开场，适合学生开发者、想做出记忆点的个人
 
 先看风格，选中一个最像你的，剩下的交给我。
 拿不准就说「我想要 A 的排版 + B 的感觉」，混合也可以。
@@ -64,7 +69,7 @@
 拍下前先聊：告诉我你的风格偏好 + 一句话介绍 + 3~5 个作品 + 联系方式。
 资料齐了三天交付。
 
-想先看效果？可以看线上展示页（8 个真实案例都是活的）：
+想先看效果？可以看线上展示页（12 个真实案例都是活的）：
 https://personal-website-ai.chendahuang.com/
 ```
 
@@ -72,7 +77,7 @@ https://personal-website-ai.chendahuang.com/
 
 **开场（买家来问）**
 
-> 你好～可以先看下这个展示页，8 种风格都是真实上线的案例：personal-website-ai.chendahuang.com
+> 你好～可以先看下这个展示页，12 种风格都是真实上线的案例：personal-website-ai.chendahuang.com
 > 你先挑一个最像你的，或者告诉我你是做什么的，我帮你推荐。
 
 **问「多少钱」**（先聊后报价）

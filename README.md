@@ -188,7 +188,7 @@ Milestones are **validation gates**, not a to-do list. Each has a gate you must 
 |------|------------|
 | `templates/` | Reference template docs + homepage screenshots (the gallery raw material) |
 | `site/` | The showcase website — plain HTML/CSS, deployed to Cloudflare Pages |
-| `MENU.md` | The M1 sales menu: 8 styles with positioning, highlights and starting prices |
+| `MENU.md` | The M1 sales menu: 12 styles with positioning, highlights and starting prices |
 | `ROADMAP.md` | Milestone gates and the M1 sales kit (listing copy, scripts, deal log) |
 | `M1-DEALS.md` | Deal log — who paid, how much, what they bought (M1 gate evidence) |
 
