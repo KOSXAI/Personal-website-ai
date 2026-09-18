@@ -118,7 +118,7 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 - **GitHub**：—
 - **X**：[@superwang](https://x.com/superwang)
 - **Reference**：[templates/linc.wang.md](templates/linc.wang.md)
-- **Highlights**：Architecture photography and editorial whitespace; establishes interior-design practice before showing usable AI products; product cards carry facts and demo links; bilingual with reduced-motion support. For independent designers and studio leads with both a professional practice and digital products.
+- **Highlights**：Editorial whitespace and clearly labeled spatial references; zaelume before/after visuals and AIRadar show product purpose, roles and usage. Interior-design and content/social services lead to a clear four-step cooperation page, with bilingual browsing and easy mobile contact. For independent designers and studio leads building digital products.
 
 ---
 
