@@ -2,7 +2,7 @@
 
 > In the AI era, a digital business card that belongs to you.
 
-[→ 中文版](README.zh.md)
+[→ 中文版](README.zh.md) · **Live showcase**: [personal-website-ai.chendahuang.com](https://personal-website-ai.chendahuang.com/)
 
 ---
 
@@ -45,6 +45,7 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 - **Homepage**：[coucouya.com](https://coucouya.com)
 - **GitHub**：—
+- **X**：[@KeKeYa88](https://x.com/KeKeYa88)
 - **Reference**：[templates/coucouya.com.md](templates/coucouya.com.md)
 - **Highlights**：Dark content site; tutorials, Web3 exploration, community growth. For personal IP and content creators.
 
@@ -56,6 +57,7 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 - **Homepage**：[mc9world.com](https://mc9world.com)
 - **GitHub**：—
+- **X**：[@MikeLammm](https://x.com/MikeLammm)
 - **Reference**：[templates/mc9world.com.md](templates/mc9world.com.md)
 - **Highlights**：WordPress, bold typography hero, "let's talk" CTA. For entrepreneurs and service-oriented personal brands.
 
@@ -67,6 +69,7 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 - **Homepage**：[edison-zwteam.pages.dev](https://edison-zwteam.pages.dev)
 - **GitHub**：—
+- **X**：[@Edison_aware](https://x.com/Edison_aware)
 - **Reference**：[templates/edison-zwteam.pages.dev.md](templates/edison-zwteam.pages.dev.md)
 - **Highlights**：Cloudflare Pages, pixel-art workshop scene; product cases + workflow capabilities. For AI product developers and automation tool builders.
 
@@ -119,6 +122,18 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 ---
 
+### 009 · MoonInAI · AI Systems Consulting & Build-in-Public Hub
+
+<img src="templates/mooninai.top-home.jpg" alt="mooninai.top preview" width="100%">
+
+- **Homepage**：[mooninai.top](https://mooninai.top/)
+- **GitHub**：[chenjin-cmd](https://github.com/chenjin-cmd)
+- **X**：[@MoonInAI](https://x.com/MoonInAI)
+- **Reference**：[templates/mooninai.top.md](templates/mooninai.top.md)
+- **Highlights**：A lunar-exploration visual system with lime accents creates a memorable identity; work, services, and a collaboration process build trust in sequence. Fits AI consultants, automation service providers, and builders working in public.
+
+---
+
 ### 010 · Station Cat · Indie Apps & Everyday Creativity
 
 <img src="templates/wwwstationcat.org-home.jpg" alt="Station Cat homepage preview" width="100%">
@@ -142,3 +157,24 @@ Milestones are **validation gates**, not a to-do list. Each has a gate you must 
 5. **M5 · Scale & Profit-share** — Scaled acquisition, profit-sharing, iterate on personalization. *Gate: CAC < LTV, and at least one acquisition channel is repeatable.*
 
 → Detailed, checkable task breakdown: [ROADMAP.md](ROADMAP.md)
+
+## Repo Layout
+
+| Path | What it is |
+|------|------------|
+| `templates/` | Reference template docs + homepage screenshots (the gallery raw material) |
+| `site/` | The showcase website — plain HTML/CSS, deployed to Cloudflare Pages |
+| `MENU.md` | The M1 sales menu: 8 styles with positioning, highlights and starting prices |
+| `ROADMAP.md` | Milestone gates and the M1 sales kit (listing copy, scripts, deal log) |
+| `M1-DEALS.md` | Deal log — who paid, how much, what they bought (M1 gate evidence) |
+
+## Deploying the showcase
+
+The showcase is a static site with no build step. To publish changes:
+
+```bash
+wrangler pages deploy site --project-name personal-website-ai
+```
+
+Live at [personal-website-ai.chendahuang.com](https://personal-website-ai.chendahuang.com/)
+(the `*.pages.dev` preview is `personal-website-ai-d9f.pages.dev`);
