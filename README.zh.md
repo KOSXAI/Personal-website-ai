@@ -170,6 +170,18 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 ---
 
+### 013 · Starry Museum · 星夜互动作品馆模板
+
+<img src="templates/starry-museum-home.jpg" alt="Starry Museum 匿名模板预览" width="100%">
+
+- **演示**：[Starry Museum](https://skyjjgw.github.io/starry-museum-portfolio/)
+- **GitHub**：[模板源码](https://github.com/skyjjgw/starry-museum-portfolio)
+- **X**: [@skyjjgw](https://x.com/skyjjgw)
+- **参考文档**：[templates/starry-museum.md](templates/starry-museum.md)
+- **亮点**：流动《星月夜》、实木画框与可直接操作的 HTML 展品，结合项目封面、翻页手记和倾斜简介卡；可选慢速自动浏览、暂停、减少动态与移动端渲染限制。人物和项目均为虚构示例，不是客户案例。
+
+---
+
 ## 里程碑路线图
 
 里程碑是**验证关卡，不是任务清单**——每一关都有一道门，过了才能进下一关；先验证"有没有人付钱"，最后才碰"怎么规模化"。
